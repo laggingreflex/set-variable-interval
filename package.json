@@ -1,6 +1,6 @@
 {
   "name": "set-variable-interval",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Set interval with a variable delay",
   "main": "index.js",
   "scripts": {
