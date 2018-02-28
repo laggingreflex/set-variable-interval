@@ -1,0 +1,10 @@
+{
+  "name": "set-variable-interval",
+  "version": "0.0.0",
+  "description": "Set interval with a variable delay",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": "laggingreflex/set-variable-interval"
+}
